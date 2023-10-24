@@ -176,7 +176,7 @@ padding: 30px;
 
 section {
     background-color: #e4e4e4;
-    width: 100% !important;
+    width: 70vw !important;
     text-align: justify;
 }
 
@@ -199,7 +199,7 @@ p {
 
 footer {
     background-color: lightgrey;
-    width: 70% !important; 
+    width: 70vw !important; 
     font-family: "Intro";
     text-align: center;
 }
@@ -235,6 +235,7 @@ color:black;
 .m li:hover{
     color:lightcoral;
     transform: scale(1.1);
+    cursor:pointer;
 }
 
 
